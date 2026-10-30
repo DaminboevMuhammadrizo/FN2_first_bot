@@ -1,0 +1,16 @@
+{
+  "name": "fn2bot",
+  "version": "1.0.0",
+  "description": "FN 2 Birinchi telegram bot",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "telegraf": "^4.16.3"
+  }
+}
